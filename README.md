@@ -4,6 +4,7 @@ You will learn how using React Native, React Figma, Styled System and other tech
 The targeted audience of the talk is the product company designers and design system developers.
 
 * [Holy.js Talk announcement](https://holyjs-moscow.ru/en/2020/msk/talks/5udhzhsrgbzzg3r496hmge/)
+* [Slides [ru]](https://speakerdeck.com/ilyalesik/kak-sozdat-mul-tiplatformiennuiu-dizain-sistiemu-na-react)
 
 ## Example
 
