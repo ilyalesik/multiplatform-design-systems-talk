@@ -5,6 +5,7 @@ The targeted audience of the talk is the product company designers and design sy
 
 * [Holy.js Talk announcement](https://holyjs-moscow.ru/en/2020/msk/talks/5udhzhsrgbzzg3r496hmge/)
 * [Slides [ru]](https://speakerdeck.com/ilyalesik/kak-sozdat-mul-tiplatformiennuiu-dizain-sistiemu-na-react)
+* [Video [ru]](https://www.youtube.com/watch?v=sK0zDRaeDXE)
 
 ## Example
 
